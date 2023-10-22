@@ -3,7 +3,7 @@
 ========================
 AWS Lambda
 ========================
-Contributor: Chirag Rathod (Srce Cde)
+Credit: Chirag Rathod 
 ========================
 """
 import os
